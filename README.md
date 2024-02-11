@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on [A Chatting App](To be Made)
 
-- 💬 Ask me about **Java, HTML, CSS, Javascript, Swift,**
+- 💬 Ask me about **Java, HTML, CSS, Javascript, Swift**
 
 - 📫 How to reach me **noelbobby01@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1IYaoifoQ5zZ2VpdvLoaq6CxsR97cSuiSEoDmppL23jo/edit?usp=sharing](https://docs.google.com/document/d/1IYaoifoQ5zZ2VpdvLoaq6CxsR97cSuiSEoDmppL23jo/edit?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1IYaoifoQ5zZ2VpdvLoaq6CxsR97cSuiSEoDmppL23jo/edit?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny**
 
