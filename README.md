@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daboss57&label=Profile%20views&color=0e75b6&style=flat" alt="daboss57" /> </p>
 
-- 🔭 I’m currently working on [MechCraft](https://github.com/solirides/mechcraft2)
+- 🔭 I’m currently working on [PGIP](https://github.com/Daboss57/bioinformatics)
 
 - 🌱 I’m currently learning **Rust**
 
